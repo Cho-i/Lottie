@@ -107,6 +107,13 @@ lottie.loadAnimation({
 
 
 
+<iframe height="265" style="width: 100%;" scrolling="no" title="Articulation Pieces by Al Boardman" src="https://codepen.io/airnan/embed/GOvebO?height=265&theme-id=light&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/airnan/pen/GOvebO'>Articulation Pieces by Al Boardman</a> by kittons
+  (<a href='https://codepen.io/airnan'>@airnan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
+
 ** 자세히 [Web - Lottie Docs](http://airbnb.io/lottie/#/web)
 
 ------
