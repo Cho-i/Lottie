@@ -109,7 +109,14 @@ lottie.loadAnimation({
 
 ** 자세히 [Web - Lottie Docs](http://airbnb.io/lottie/#/web)
 
+------
 
+**참고**
 
+https://feel5ny.github.io/2018/02/25/interaction_01/
 
+[https://medium.com/@congjang/f-%EB%B2%88%EC%99%B8%ED%8E%B8-lottie%EB%A1%9C-animation-%EB%A7%8C%EB%93%A4%EA%B8%B0-93135f18e450](https://medium.com/@congjang/f-번외편-lottie로-animation-만들기-93135f18e450)
 
+http://uidesignguides.com/airbnb-lottie/
+
+https://tagilog.tistory.com/620
