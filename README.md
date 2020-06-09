@@ -116,6 +116,8 @@ lottie.loadAnimation({
 
 ** 자세히 [Web - Lottie Docs](http://airbnb.io/lottie/#/web)
 
+** 테스트 [Web test](https://cho-i.github.io/Lottie/sample/)
+
 ------
 
 **참고**
